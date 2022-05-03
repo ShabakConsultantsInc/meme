@@ -9,7 +9,7 @@ import "./ERC20.sol";
 // import "./extensions/IERC20Metadata.sol";
 // import "./Context.sol";
 
-// 2500000000000000000000000000 = 25*10**9 * 10**18
+// 25000000000000000000000000000 = 25*10**9 * 10**18
 contract USAToken is ERC20 {
     constructor(
         uint256 initialSupply
